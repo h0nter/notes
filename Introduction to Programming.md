@@ -22,7 +22,7 @@ public class Token{
       }
   }
   
-  public char random()
+  public char randomToken()
   {
       if (multi.equals(null))
       {
